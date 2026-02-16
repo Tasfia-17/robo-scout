@@ -18,7 +18,8 @@ import { createControllerForScene } from "./controllers/index.js";
 // ============================================
 // AI INTEGRATION - Gemini 3 Flash
 // ============================================
-const GEMINI_API_KEYS = [
+// Keys loaded from window.ENV (set by Vercel)
+const GEMINI_API_KEYS = window.ENV?.GEMINI_KEYS || [
   "AIzaSyCQtq6fk63ScfmhOizw5dUYC7tLG3FR24U",
   "AIzaSyAGmz_T4-VWRlvjuBCTyPFghtvvR8QpMwQ",
   "AIzaSyDpZCLoTZ3ekTIUq2l1q6xnIEENUwHAypw"
