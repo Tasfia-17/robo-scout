@@ -33,7 +33,7 @@ Modern warehouse and logistics operations need AI agents that can:
 TinyFish API scrapes dashboards, updates systems, and monitors platforms in real-time. Not just reading data - RoboScout writes back to update task status, log maintenance, and coordinate operations.
 
 **AI Decision Engine**  
-Gemini 3 Flash analyzes web data combined with robot telemetry (position, battery, velocity) to make intelligent operational decisions every 2 seconds.
+SambaNova AI analyzes web data combined with robot telemetry (position, battery, velocity) to make intelligent operational decisions every 2 seconds.
 
 **Two-Way Automation**  
 Unlike typical scrapers, RoboScout both reads from websites AND updates them. This enables true autonomous fleet management through existing enterprise systems.
@@ -70,7 +70,7 @@ Built with scalability in mind - from single robot demos to enterprise deploymen
 
 **Workflow:**
 1. **TinyFish scrapes** warehouse task boards, weather sites, maintenance systems
-2. **Gemini AI analyzes** web data + robot telemetry (position, battery, velocity)
+2. **SambaNova AI analyzes** web data + robot telemetry (position, battery, velocity)
 3. **AI decides** optimal actions with explainable reasoning
 4. **Robots execute** commands via 3D simulation (digital twin)
 5. **TinyFish updates** dashboards with completion status
@@ -103,7 +103,7 @@ Built with scalability in mind - from single robot demos to enterprise deploymen
 
 ### AI Decision Making
 
-**Gemini 3 Flash Integration**
+**SambaNova AI Integration**
 - Makes decisions every 2 seconds based on current state
 - Considers: position, battery, velocity, mission objectives
 - Provides natural language reasoning for every action
@@ -168,7 +168,7 @@ Every decision includes:
 - Structured JSON extraction from any website
 
 **AI & Decision Making**
-- Google Gemini 3 Flash for autonomous decisions
+- Google SambaNova AI for autonomous decisions
 - Multi-API key rotation for high throughput
 - Natural language reasoning generation
 
@@ -443,7 +443,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 - **TinyFish** - Web automation API
 - **r/AI_Agents** - Community and hackathon organizers
-- **Google DeepMind** - Gemini AI and MuJoCo physics engine
+- **Google DeepMind** - SambaNova AI and MuJoCo physics engine
 - **Vercel** - Deployment platform
 
 ---
