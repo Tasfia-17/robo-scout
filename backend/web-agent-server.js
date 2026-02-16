@@ -9,9 +9,9 @@ const TINYFISH_API_KEY = "sk-tinyfish-GNc7SJkKci7lviX152z59peTF8zC3-WO";
 const SAMBANOVA_API_KEY = "e5dff711-1df4-4d1f-adec-62c52de77ab3";
 
 const GEMINI_KEYS = [
+  "AIzaSyCQtq6fk63ScfmhOizw5dUYC7tLG3FR24U",
   "AIzaSyAGmz_T4-VWRlvjuBCTyPFghtvvR8QpMwQ",
-  "AIzaSyABOmaJtHKvs_N77jshVEVifeBQ1VuE4-4",
-  "AIzaSyD6ZYbBiwxpUfzx_jDYWWv0TDQot31Gr7k"
+  "AIzaSyDpZCLoTZ3ekTIUq2l1q6xnIEENUwHAypw"
 ];
 let keyIndex = 0;
 

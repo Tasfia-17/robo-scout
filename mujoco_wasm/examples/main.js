@@ -19,9 +19,9 @@ import { createControllerForScene } from "./controllers/index.js";
 // AI INTEGRATION - Gemini 3 Flash
 // ============================================
 const GEMINI_API_KEYS = [
+  "AIzaSyCQtq6fk63ScfmhOizw5dUYC7tLG3FR24U",
   "AIzaSyAGmz_T4-VWRlvjuBCTyPFghtvvR8QpMwQ",
-  "AIzaSyABOmaJtHKvs_N77jshVEVifeBQ1VuE4-4",
-  "AIzaSyD6ZYbBiwxpUfzx_jDYWWv0TDQot31Gr7k"
+  "AIzaSyDpZCLoTZ3ekTIUq2l1q6xnIEENUwHAypw"
 ];
 let currentKeyIndex = 0;
 let aiEnabled = true;
